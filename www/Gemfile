@@ -15,7 +15,7 @@ gem 'redcarpet'
 gem 'middleman-vegas'
 
 # Middleman Gems
-gem 'middleman', '>= 4.1'
+gem 'middleman', '>= 4.6.0'
 gem 'middleman-autoprefixer'
 gem 'middleman-livereload'
 gem 'middleman-s3_sync'
